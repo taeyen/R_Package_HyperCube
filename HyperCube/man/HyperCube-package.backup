@@ -1,0 +1,32 @@
+\name{HyperCube-package}
+\alias{HyperCube-package}
+\alias{HyperCube}
+\docType{package}
+\title{
+Hypercube estimator
+}
+\description{
+Hypercube estimator, Penalized least square and more.
+}
+\details{
+\tabular{ll}{
+Package: \tab HyperCube\cr
+Type: \tab Package\cr
+Version: \tab 0.1-1\cr
+Date: \tab 2015-05-08\cr
+License: \tab GPL\cr
+}
+}
+\author{
+Chi Po Choi
+Amy Kim
+
+Maintainer: Chi Po Choi <cpchoi@ucdavis.edu>, Amy Kim <atykimi@ucdavis.edu>
+}
+\references{ Rudy 
+}
+\keyword{ package }
+\seealso{
+}
+\examples{
+}
