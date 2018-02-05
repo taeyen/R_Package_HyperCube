@@ -1,6 +1,6 @@
 ---
 title: "STA242 Report: HyperCube"
-author: "Chi Po Choi, (ID:912494157), Amy T. Kim (ID:912492829)"
+author: "Chi Po Choi, Amy T. Kim"
 date: "`r Sys.Date()`"
 output: pdf_document
 bibliography: bibliography.bib

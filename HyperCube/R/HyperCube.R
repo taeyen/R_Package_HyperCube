@@ -4,9 +4,9 @@
 #'
 #' @author 
 #' Chi Po Choi \email{cpchoi@@ucdavis.edu},
-#' Amy T. Kim \email{atykimi@@ucdavis.edu}
+#' Amy T. Kim \email{atykim@@ucdavis.edu}
 #' 
-#' Maintainer: Chi Po Choi \email{cpchoi@@ucdavis.edu}, Amy T. Kim \email{atykimi@@ucdavis.edu}
+#' Maintainer: Chi Po Choi \email{cpchoi@@ucdavis.edu}, Amy T. Kim \email{atykim@@ucdavis.edu}
 #' 
 #' @aliases HyperCube HyperCube-package
 #' @importFrom MASS ginv
